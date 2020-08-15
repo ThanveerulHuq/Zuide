@@ -81,7 +81,7 @@ var isTouchDevice = navigator.userAgent.match(/(iPhone|iPod|iPad|Android|BlackBe
 		  }
 		  else {
 		  	$this.removeClass('noScrollRelative');
-		  	$this.find('.pp-tableCell').addClass('paddingTop').css('display','block');
+		  	$this.find('.pp-tableCell').css('display','block');
 		    $this.css('display','block');
 		    $this.find('.container-wrap-block').css({'height':'100%', 'overflow':'auto'});
 		    $this.find('.footer').css('position','static');

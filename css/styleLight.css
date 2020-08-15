@@ -1654,7 +1654,7 @@ header ul li a:active {
 
 /*Notify me*/
 .notify-me {
-  padding-top: 25px;
+  /* padding-top: 25px;  */
   position: relative;
 }
 .notify-me .form-control {

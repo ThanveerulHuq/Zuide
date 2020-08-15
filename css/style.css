@@ -1450,7 +1450,7 @@ header ul li a:active {
   }
   section .pp-tableCell {
     display: block !important;
-    padding-top: 50px;
+    /* padding-top: 50px; */
   }
 
   .pp-easing {
@@ -1654,7 +1654,7 @@ header ul li a:active {
 
 /*Notify me*/
 .notify-me {
-  padding-top: 25px;
+  /* padding-top: 25px; */
   position: relative;
 }
 .notify-me .form-control {
