@@ -386,8 +386,8 @@ var isTouchDevice = navigator.userAgent.match(/(iPhone|iPod|iPad|Android|BlackBe
 			changePanel(hash);
 		} 
 		else {
-			var url   = "#page1";
-			location.hash = url;
+			// var url   = "#page1";
+			// location.hash = url;
 		}
 	  $(window).on('hashchange', function(){
 	  var panelName = window.location.hash;
